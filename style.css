@@ -1,0 +1,56 @@
+@CHARSET "UTF-8";
+
+body {
+margin: 0 auto;
+width: 750px;
+}
+/*
+block level element
+*/
+h2, a{
+  font-size: 36px;
+  color:#000;
+}
+/*
+inline element
+*/
+a {
+  text-decoration: none;
+}
+#Wrap {
+  background: ;
+  width: 730px;
+
+}
+
+.header {
+  padding-left:20px;
+
+  width: 710px;
+  height: 70px;
+  border-bottom: 1px solid #424242;
+}
+
+.sideInfo {
+  padding: 10px 0 0 10px;
+  width:180px;
+  height: 400px;
+  float:left;
+
+}
+
+.content {
+  padding: 0px 0 0 10px;
+  width:500px;
+  height: 410px;
+  float:right;
+border-left: 1px solid #424242;
+}
+
+.footer {
+  width:730px;
+  height: 50px;
+  clear: both;
+  text-align: center;
+  border-top: 1px solid #424242;
+}
