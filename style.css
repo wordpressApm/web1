@@ -7,7 +7,7 @@ width: 750px;
 /*
 block level element
 */
-h2, a{
+header h2, a{
   font-size: 36px;
   color:#000;
 }
